@@ -1,1 +1,1 @@
-# Study-Mate-AI
+# Job-Board-Platform
